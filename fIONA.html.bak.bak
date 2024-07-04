@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewpoint" content="width=device-width">
+<title> my favourite food</title>
+</head>
+<body>
+<h1><strong>WELCOME TO MY  FAVOURITE FOOD</strong></h1>
+
+<p>hello everyone i like food especially fish below is the sample of my cookin...</p>
+
+<!-- starting ordered list-->
+</ol>
+<p>------separate-----</p>
+<ul>
+<li><img src="C:\Users\Blossom\Desktop\download (1).jpg" alt="sprinkle donut" /></li>
+<li><img src="C:\Users\Blossom\Desktop\OIP.jpg"alt="sprinkle donut" /></li>
+</ul>
+<!-- here you goooo...-->
+li><img src="C:\Users\Blossom\Desktop\myfavfood\download (3).jpg"alt="sprinkle donut" /></li>
+
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewpoint" content="width=device-width">
+<title> my favourite food</title>
+</head>
+<body style="background-color:khaki;" >
+<h1><strong>WELCOME TO MY  FAVOURITE FOOD</strong></h1>
+
+<p>hello everyone i like food especially fish below is the sample of my cookin...</p>
+
+<!-- starting ordered list-->
+</ol>
+<p>------separate-----</p>
+<ul>
+<li><img src="C:\Users\Blossom\Desktop\myfavfood\download (1).jpg" alt="sprinkle donut" /></li>
+<p>Instructions...</p>
+<li>Baked Cod with Lemon and Garlic, Greek-Style.. ...</li>
+<li>White Fish with Olives and Tomatoes.. ...</li>
+<li>Lemon Garlic Baked Salmon..</li>
+<li>Trout Fish Piccata.. ...</li>
+<li>Whole Branzino with Ladolemono Sauce.</li>
+<p>------separate-----</p>
+</ul>
+<li><img src="C:\Users\Blossom\Desktop\myfavfood\download (8).jpg"alt="sprinkle donut" /></li>
+<p>Instructions...</p>
+<ol>
+<li>Preheat oven to 350°</li>
+<li>Combine flour, sugar, baking powder, nutmeg and salt together in a bowl. ...</li>
+<li>In a separate bowl, combine milk, egg, oil, and vanilla together. ...</li>
+<li>Add wet ingredients into the flour mixture and stir just until combined.</li>
+<li>Add sprinkles and stir to incorporate. ...</li>
+<li>Spoon batter into a greased donut pan.</li>
+</ol>
+<!-- here you goooo...-->
+<li><marquee><img src="C:\Users\Blossom\Desktop\myfavfood\copy.png"alt="sprinkle donut" /><marquee></li>
+
+<h1> The Best recipes in the World </h1>
+<ul>
+<li><a href ="https://www.wptasty.com/best-recipe-websites"> chinese recipe </a></li>
+<li><a href ="https://www.bbcgoodfood.com/recipes/collection/easy-dinner-recipes"> Dinner recipe </a></li>
+<li><a href ="https://damndelicious.net/"> chicken recipe </a></li>
+<li><a href ="https://www.bestrecipes.com.au/"> Austraria recipe </a></li>
+<li><a href ="https://www.allrecipes.com/gallery/best-dinner-recipes-of-all-time/"> Dinner recipe </a></li>
+</ul>
+<h1>For more enquiry</h1> 
+<li><a href ="mailto:yourname@yoursite.com"> Email me</a></li>
+</body>
+</html>
